@@ -1,0 +1,3 @@
+# Learning Journal Day 3
+
+So today I actually went my first meetup, Puppy! It about python which I know is not what we are learning just yet, but it is my preferred 401 track. And man was it a blast. Now some of the topics were vastly over my head not just in complexity but also because I don't know the language. However, there was a lot more than I expected that I was able to kind of follow along with. And the people there (many of whom were CodeFellows grads) were insanely welcoming and supportive. I can't wait to go again!
