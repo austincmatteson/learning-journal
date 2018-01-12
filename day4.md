@@ -1,0 +1,3 @@
+# Learning Journal Day 4
+
+Partner work is incredible and I want to do more of it. Bouncing ideas off each other when you're problem solving, having to learn how they code and experiencing new styles and ideas that you wouldn't have used or seen wokring alone, forcing yourself to communicate your thoughts and process in a useful and productive manner despite not knowing them. All these things add up to create an incredibly enriching learning experience. And one especially indicitive of industry experience. It might sound weird, but I'm excited for a partner coding day where stuff doesn't go well. Failure and struggle is a great learning tool and because today went so well, I feel I might've missed out a little.
